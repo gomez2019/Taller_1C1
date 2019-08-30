@@ -1,0 +1,11 @@
+/home/mint/Projects/Taller_1C1/Taller_1C1/bin/Debug/netcoreapp2.2/Taller_1C1.deps.json
+/home/mint/Projects/Taller_1C1/Taller_1C1/bin/Debug/netcoreapp2.2/Taller_1C1.runtimeconfig.json
+/home/mint/Projects/Taller_1C1/Taller_1C1/bin/Debug/netcoreapp2.2/Taller_1C1.runtimeconfig.dev.json
+/home/mint/Projects/Taller_1C1/Taller_1C1/bin/Debug/netcoreapp2.2/Taller_1C1.dll
+/home/mint/Projects/Taller_1C1/Taller_1C1/bin/Debug/netcoreapp2.2/Taller_1C1.pdb
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.csprojAssemblyReference.cache
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.csproj.CoreCompileInputs.cache
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.AssemblyInfoInputs.cache
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.AssemblyInfo.cs
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.dll
+/home/mint/Projects/Taller_1C1/Taller_1C1/obj/Debug/netcoreapp2.2/Taller_1C1.pdb

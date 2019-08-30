@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{60CA5B79-8E9A-4A36-9D09-9315A0C2392C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Taller_1C1/Program.cs">
+    <Files>
+      <File FileName="Taller_1C1/Program.cs" Line="188" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Taller_1C1" expanded="True">
+            <Node name="Taller_1C1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Taller__1C1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
