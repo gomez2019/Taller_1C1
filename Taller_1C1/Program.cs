@@ -68,7 +68,6 @@ namespace Taller_1C1
                     float contador = 0.00f;
                     while (horas > 3)
                     {
-                        float valor_adicional = horas - 3;
                         contador++;
                         horas--;
                     }
@@ -93,7 +92,7 @@ namespace Taller_1C1
             Console.WriteLine("Convertir centigrados/farenheit \n");          
             Console.WriteLine("1  para convertir grados fahrenheit a centigrados ");
             Console.WriteLine("2  para convertir grados centigrados a fahrenheit \n");
-            Console.WriteLine("Ingrese la letra de la operacion desea realizar \n");
+            Console.WriteLine("Ingrese el numero de la operacion que desea realizar \n");
 
             string op = Console.ReadLine();
             if (op == "1")
